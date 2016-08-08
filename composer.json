@@ -16,6 +16,8 @@
       "email": "will+git@drnd.me"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "symfony/framework-bundle": "~2.1|~3.0",
     "willdurand/geocoder": "dev-httplug",
