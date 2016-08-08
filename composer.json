@@ -5,7 +5,7 @@
           "url": "https://github.com/Nyholm/Geocoder.git"
       }
   ],
-  "name": "willdurand/geocoder-bundle",
+  "name": "flaxis/geocoder-bundle",
   "description": "Integration of Geocoder into Symfony",
   "keywords": ["geocoding", "geocoder"],
   "type": "symfony-bundle",
