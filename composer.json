@@ -2,7 +2,7 @@
   "repositories": [
       {
           "type": "vcs",
-          "url": "https://github.com/Nyholm/Geocoder.git"
+          "url": "https://github.com/Flaxis/Geocoder.git"
       }
   ],
   "name": "flaxis/geocoder-bundle",
@@ -18,7 +18,7 @@
   ],
   "require": {
     "symfony/framework-bundle": "~2.1|~3.0",
-    "willdurand/geocoder": "dev-httplug",
+    "flaxis/geocoder": "dev-httplug",
     "symfony/console": "~2.1|~3.0"
   },
   "require-dev": {
